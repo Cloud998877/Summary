@@ -1,0 +1,5 @@
+{
+  "name": "Clinical Trial Paper Analyzer",
+  "description": "An AI-powered tool to analyze and summarize clinical trial research papers, categorized by PICO and ending sentences with noun forms.",
+  "requestFramePermissions": []
+}
